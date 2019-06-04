@@ -1,0 +1,23 @@
+To start git 
+git init
+
+To add repo
+git remote add origin https://github.com/The1vivek/Big-Data-Exercises.git
+
+To Clone repo
+git clone https://github.com/ankitshukla1107/Big-Data-Excercises.git
+
+To know status
+git status
+
+To add
+git add "Operation on SQL Context.ipynb"
+
+To commit
+git commit -m "big-data-ex"
+
+To push into master
+git push -u origin master
+
+To create branch
+git checkout -b big/vivek
