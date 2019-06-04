@@ -21,3 +21,5 @@ git push -u origin master
 
 To create branch
 git checkout -b big/vivek
+
+Note- Must commit to push
